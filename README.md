@@ -130,5 +130,5 @@ A complete neural network implementation from scratch (no ML frameworks) for cla
 
 ## Author
 
-Aadi Malhotra, pd 1, 2026
+Aadi Malhotra
 
